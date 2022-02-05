@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Histoire &#8211; EFIP</title>
+	<atom:link href="https://ecolepattaya.com/fr/category/histoire/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ecolepattaya.com/fr/</link>
+	<description>Ecole Française Internationale de Pattaya</description>
+	<lastBuildDate>Fri, 28 Jan 2022 03:42:59 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
+	<item>
+		<title>Appel à la Résistance du 18 juin 1940</title>
+		<link>https://ecolepattaya.com/fr/video-realisee-par-les-eleves-de-3e-a-loccasion-des-80-ans-de-lappel-a-la-resistance-du-18-juin-1940-par-le-general-de-gaulle/</link>
+					<comments>https://ecolepattaya.com/fr/video-realisee-par-les-eleves-de-3e-a-loccasion-des-80-ans-de-lappel-a-la-resistance-du-18-juin-1940-par-le-general-de-gaulle/#respond</comments>
+		
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Thu, 18 Jun 2020 04:04:19 +0000</pubDate>
+				<category><![CDATA[Histoire]]></category>
+		<guid isPermaLink="false">https://ecolepattaya.com/?p=4682</guid>
+
+					<description><![CDATA[Vidéo réalisée par les élèves de 3e à l’occasion des 80 ans de l’Appel à la Résistance du 18 juin 1940 par le général de Gaulle.]]></description>
+		
+					<wfw:commentRss>https://ecolepattaya.com/fr/video-realisee-par-les-eleves-de-3e-a-loccasion-des-80-ans-de-lappel-a-la-resistance-du-18-juin-1940-par-le-general-de-gaulle/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

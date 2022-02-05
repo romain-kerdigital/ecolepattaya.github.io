@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Education &#8211; EFIP</title>
+	<atom:link href="https://ecolepattaya.com/fr/category/education/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ecolepattaya.com/fr/</link>
+	<description>Ecole Française Internationale de Pattaya</description>
+	<lastBuildDate>Fri, 28 Jan 2022 03:12:48 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
+	<item>
+		<title>Nouvelle Section Anglaise de 3 à 6 ans !</title>
+		<link>https://ecolepattaya.com/fr/new-english-section-3-to-6-years-of-age-opening-thursday-september-1st-2022/</link>
+					<comments>https://ecolepattaya.com/fr/new-english-section-3-to-6-years-of-age-opening-thursday-september-1st-2022/#respond</comments>
+		
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Tue, 04 Jan 2022 23:02:25 +0000</pubDate>
+				<category><![CDATA[Education]]></category>
+		<guid isPermaLink="false">https://ecolepattaya.com/?p=4577</guid>
+
+					<description><![CDATA[Ouverture jeudi 1er septembre 2022]]></description>
+		
+					<wfw:commentRss>https://ecolepattaya.com/fr/new-english-section-3-to-6-years-of-age-opening-thursday-september-1st-2022/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pause active</title>
+		<link>https://ecolepattaya.com/fr/pause-active/</link>
+					<comments>https://ecolepattaya.com/fr/pause-active/#respond</comments>
+		
+		<dc:creator><![CDATA[Paul Quiroga]]></dc:creator>
+		<pubDate>Fri, 08 Oct 2021 04:38:22 +0000</pubDate>
+				<category><![CDATA[Education]]></category>
+		<guid isPermaLink="false">https://ecolepattaya.com/?p=6604</guid>
+
+					<description><![CDATA[Dans le cadre de la mise en place des 30 minutes d&#8217;activités physiques quotidiennes, voici un exemple de pause active avec les élèves de CE1/CE2. Notre école assurant un enseignement à distance en continu, ces pauses actives prennent place, en général, entre deux séances. Les enfants ayant un besoin de mouvement, ces activités leur permettent de [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://ecolepattaya.com/fr/pause-active/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

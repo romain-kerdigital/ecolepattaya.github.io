@@ -1,0 +1,61 @@
+/*
+Theme Name: Academist Child
+Theme URI: http://academist.elated-themes.com
+Description: A child theme of Academist Theme
+Author: Elated Themes
+Author URI: http://themeforest.net/user/elated-themes
+Version: 1.0.0
+Text Domain: academist
+Template: academist
+*/
+
+.eltdf-mobile-header .eltdf-mobile-logo-wrapper img {
+	height: 50%;
+	margin-top: 8px;
+}
+.home .eltdf-testimonial-text {
+	font-size: 30px;
+	line-height: 35px;
+}
+.home .eltdf-testimonial-image-holder {
+	width: 5%;
+}
+
+.eltdf-owl-slider .owl-item img {
+	width: 50%;margin:0 auto;
+}
+body.home .eltdf-owl-slider .owl-item img{width: 100%;}
+
+.eltdf-vertical-align-containers .eltdf-position-left {
+	max-width: 430px;
+}
+.frontpage_image > div {
+	background-size: cover;
+	background-position: center center;
+}
+.frontpage_image > div:first-child {
+	background: url( "../../uploads/2021/05/S__2228227.jpg" );
+	background-size: cover;
+	background-position: center center;
+}
+.scolarite-image {
+	background: url( "../../uploads/2021/09/14670708792337-scaled.jpg" );
+	background-size: cover;
+	background-position: right 15%;
+}
+.weird-column {
+    padding: 55px 80px !important;
+ }
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  .weird-column {
+    padding: 55px 20px !important;
+  }
+  .vc_custom_1554689903201 {
+  	padding-left:  30px !important;
+  }
+  .scolarite-image {
+  	margin-bottom: 50px !important;
+  	background-position: center bottom;
+  }
+}

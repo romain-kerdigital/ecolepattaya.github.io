@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Sport &#8211; EFIP</title>
+	<atom:link href="https://ecolepattaya.com/category/sport-2/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ecolepattaya.com</link>
+	<description>Ecole Française Internationale de Pattaya</description>
+	<lastBuildDate>Fri, 28 Jan 2022 08:22:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
+	<item>
+		<title>The badminton court is ready!</title>
+		<link>https://ecolepattaya.com/the-badminton-court-is-ready/</link>
+					<comments>https://ecolepattaya.com/the-badminton-court-is-ready/#respond</comments>
+		
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Fri, 28 Jan 2022 08:22:07 +0000</pubDate>
+				<category><![CDATA[Sport]]></category>
+		<guid isPermaLink="false">https://ecolepattaya.com/?p=7770</guid>
+
+					<description><![CDATA[The pupils of the primary school were able to inaugurate their new badminton court during break time.]]></description>
+		
+					<wfw:commentRss>https://ecolepattaya.com/the-badminton-court-is-ready/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Swimming restarts</title>
+		<link>https://ecolepattaya.com/swimming-restarts/</link>
+					<comments>https://ecolepattaya.com/swimming-restarts/#respond</comments>
+		
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Thu, 11 Nov 2021 03:04:05 +0000</pubDate>
+				<category><![CDATA[Sport]]></category>
+		<guid isPermaLink="false">https://ecolepattaya.com/?p=6996</guid>
+
+					<description><![CDATA[First swimming lesson since resuming face-to-face in a now fully covered swimming pool.]]></description>
+		
+					<wfw:commentRss>https://ecolepattaya.com/swimming-restarts/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>EFIP Sports Day</title>
+		<link>https://ecolepattaya.com/journee-sportive-de-lefip/</link>
+					<comments>https://ecolepattaya.com/journee-sportive-de-lefip/#respond</comments>
+		
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Fri, 12 Mar 2021 05:21:22 +0000</pubDate>
+				<category><![CDATA[Sport]]></category>
+		<guid isPermaLink="false">https://ecolepattaya.com/journee-sportive-de-lefip/</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>https://ecolepattaya.com/journee-sportive-de-lefip/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Beach soccer tournament</title>
+		<link>https://ecolepattaya.com/beach-soccer-tournament-at-jomtien-beach-for-their-first-participation-our-students-finished-in-6th-place-well-done/</link>
+					<comments>https://ecolepattaya.com/beach-soccer-tournament-at-jomtien-beach-for-their-first-participation-our-students-finished-in-6th-place-well-done/#respond</comments>
+		
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Fri, 07 Feb 2020 04:43:55 +0000</pubDate>
+				<category><![CDATA[Sport]]></category>
+		<guid isPermaLink="false">https://ecolepattaya.com/beach-soccer-tournament-at-jomtien-beach-for-their-first-participation-our-students-finished-in-6th-place-well-done/</guid>
+
+					<description><![CDATA[Beach soccer tournament at Jomtien Beach. For their first participation, our students finished in 6th place, well done!]]></description>
+		
+					<wfw:commentRss>https://ecolepattaya.com/beach-soccer-tournament-at-jomtien-beach-for-their-first-participation-our-students-finished-in-6th-place-well-done/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

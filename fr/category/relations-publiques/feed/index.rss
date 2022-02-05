@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Relations publiques &#8211; EFIP</title>
+	<atom:link href="https://ecolepattaya.com/fr/category/relations-publiques/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ecolepattaya.com/fr/</link>
+	<description>Ecole Française Internationale de Pattaya</description>
+	<lastBuildDate>Fri, 28 Jan 2022 02:52:55 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
+	<item>
+		<title>Visite de l&#8217;ambassadeur de France</title>
+		<link>https://ecolepattaya.com/fr/visite-de-lambassadeur-de-france/</link>
+					<comments>https://ecolepattaya.com/fr/visite-de-lambassadeur-de-france/#respond</comments>
+		
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Thu, 25 Nov 2021 02:45:02 +0000</pubDate>
+				<category><![CDATA[Relations publiques]]></category>
+		<guid isPermaLink="false">https://ecolepattaya.com/?p=7080</guid>
+
+					<description><![CDATA[Ce mercredi 25 novembre 2021, nous avons eu le plaisir et l’honneur d’accueillir SE M. Thierry Mathou, ambassadeur de France en Thaïlande, accompagné de son épouse, Mme Cécile Mathou, du Consul de France, M. Christophe Hemmings, de Mme Eve Lubin (Cheffe du service culturel), de M. Michel-Yves Bernard-Ugen (Chef du service sécurité) et de M. Lionel [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://ecolepattaya.com/fr/visite-de-lambassadeur-de-france/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Visite du Consul de France en Thaïlande</title>
+		<link>https://ecolepattaya.com/fr/nous-avons-eu-le-plaisir-daccueillir-m-christophe-hemmings-consul-de-france-en-thailande-en-visite-a-lefip/</link>
+					<comments>https://ecolepattaya.com/fr/nous-avons-eu-le-plaisir-daccueillir-m-christophe-hemmings-consul-de-france-en-thailande-en-visite-a-lefip/#respond</comments>
+		
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Thu, 17 Dec 2020 05:18:41 +0000</pubDate>
+				<category><![CDATA[Relations publiques]]></category>
+		<guid isPermaLink="false">https://ecolepattaya.com/?p=4724</guid>
+
+					<description><![CDATA[Nous avons eu le plaisir d’accueillir M. Christophe Hemmings, Consul de France en Thaïlande, en visite à l’EFIP.]]></description>
+		
+					<wfw:commentRss>https://ecolepattaya.com/fr/nous-avons-eu-le-plaisir-daccueillir-m-christophe-hemmings-consul-de-france-en-thailande-en-visite-a-lefip/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
